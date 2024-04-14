@@ -1,0 +1,6 @@
+@SmartUnitConverterAPI_HostAddress = http://localhost:5139
+
+GET {{SmartUnitConverterAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
